@@ -12,5 +12,5 @@ check if install via browser
 
 like this:
 
-https://<ip>
+https://iphere
 
